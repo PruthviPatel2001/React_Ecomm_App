@@ -1,0 +1,30 @@
+.btn{
+        margin-top:5%;
+        width: 20%;
+        border: 2px solid #BE00FE;
+        background-color: transparent;
+        color:#fff;
+        padding: 10px;
+        font-size: 20px;
+        text-decoration: none;
+        display: flex;
+       
+        justify-content: center;
+        align-items: center;
+}
+.btn:hover{
+    background-color: #28033d;
+    border: 2px solid #BE00FE;
+    
+} 
+
+@media only screen and (max-width: 600px) {
+    .btn{
+        width: 40%;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .btn{
+        width: 50%;
+    }
+}
