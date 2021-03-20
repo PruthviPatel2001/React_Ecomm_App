@@ -1,5 +1,5 @@
 # React_Ecomm_App
-Created with CodeSandbox
+E-commerce website.Build on React JS.
 
 ## Live Site
 https://supermartgamingshop.netlify.app/
